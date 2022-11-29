@@ -10,7 +10,7 @@ namespace Module_2
             int age = 20;
             string email = "ivanov@yandex.ru";
             float iTScore = 80;
-            float mathScore = 65;
+            float mathScore = 65.5f;
             float physicsScore = 69;
 
             float totalScore = iTScore + mathScore + physicsScore;
